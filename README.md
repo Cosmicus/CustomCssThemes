@@ -2,7 +2,7 @@
 
 ## How to apply a css theme
 ### TamperMonkey
-Example:
+Example: __Change the @includes and ss.href link according to your implementation.__
 ```javascript
 // ==UserScript==
 // @name         Facebook Messenger Dark
