@@ -38,9 +38,14 @@ body {
     color: #cecece;
 }
 
-//Linked content text*/
-._5i_d .__6k, ._5i_d .__6l, ._5i_d .__6m {
+/*Linked content text*/
+._5i_d .__6k, ._5i_d .__6l, ._5i_d .__6m, ._4ik4 ._4ik5, ._4ik4 ._4ik5 {
     color: #cecece;
+}
+
+/*Linked content box*/
+._52mr ._2poz ._ui9 ._4skb ._5i_d{
+    background-color: #363636;
 }
 
 /*Unread Message, active since*/
