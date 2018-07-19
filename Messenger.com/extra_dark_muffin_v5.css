@@ -59,6 +59,11 @@ body {
     border-top-color: #3e3e3e;
 }
 
+/*Is chatting box*/
+._4gd0 {
+    background: #1e1e1e;
+}
+
 /*ChatBorder*/
 ._1q5-, ._4_j5, ._4_j4 .chatAttachmentShelf {
     border-color: #4e4e4e;
